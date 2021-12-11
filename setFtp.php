@@ -4,10 +4,6 @@
 class setFtp
 {
 
-    /*Библиотеку разрабатывал @lavachik
-    Общая стоимость: 440р+ (точно не помню)
-    */
-
     public $ip;
     public $username;
     public $port = 21;
